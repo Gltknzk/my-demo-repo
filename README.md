@@ -1,3 +1,3 @@
 # my-demo-repo
-bu bemin ilk çalışmam
-ikinci değişiklik
+# bu bemin ilk çalışmam
+# ikinci değişiklik
